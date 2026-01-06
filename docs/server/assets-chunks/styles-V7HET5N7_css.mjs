@@ -1,0 +1,2 @@
+export default `*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;background:#f5f5f5;color:#333}h1,h2,h3,h4,h5,h6{margin:0 0 1rem}code{font-family:Courier New,Courier,monospace}button{cursor:pointer}
+`;
